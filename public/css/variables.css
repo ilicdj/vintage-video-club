@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Bob";
+  src: url("../fonts/Bob.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Notable";
+  src: url("../fonts/Notable-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Exo";
+  src: url("../fonts/Exo2-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}/*# sourceMappingURL=variables.css.map */

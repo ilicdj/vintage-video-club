@@ -1,0 +1,41 @@
+// Colours
+$black: #000000;
+$white: #ffffff;
+$pink: #fec7da;
+$green: #6dca9d;
+$blue: #2f68dc;
+$yellow: #fbd008;
+
+@font-face {
+  font-family: "Bob";
+  src: url("../fonts/Bob.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Notable";
+  src: url("../fonts/Notable-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Exo";
+  src: url("../fonts/Exo2-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+$font-text: "Exo", sans-serif;
+$font-headings: "Notable", sans-serif;
+$font-big-headings: "Bob", sans-serif;
+
+// Sizes
+
+$size-heading: 38px;
+$size-nav-links: 28px;
+$size-inputs: 23px;
+
+// Transitions
+$transition-basic: 0.27s all ease;
