@@ -2,6 +2,8 @@ Report for VVC Project
 -
 Technologies used for this project: HTML, CSS, Sass, JavaScript, BarbaJS, GSAP, PHP, OOP PHP
 --
+View design in figma: https://www.figma.com/design/5vqTjO2NcroEYWAYpX1Tb7/vvc?node-id=0%3A1&t=GLLXPNutoCW2OT2W-1
+--
 Project Introduction
 As someone who enjoys a good movie and loves the concept that not so long time ago one had to rent a movie to be able to watch it,
 I came up with an idea to make a web application for users to make the reservation for movie in video club. If this was a real website 20 years ago,
